@@ -1,0 +1,12 @@
+X:\SoftUni-Advanced-C-\6. Multidimensional Arrays - Exercise\03. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.exe
+X:\SoftUni-Advanced-C-\6. Multidimensional Arrays - Exercise\03. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.deps.json
+X:\SoftUni-Advanced-C-\6. Multidimensional Arrays - Exercise\03. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.runtimeconfig.json
+X:\SoftUni-Advanced-C-\6. Multidimensional Arrays - Exercise\03. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.runtimeconfig.dev.json
+X:\SoftUni-Advanced-C-\6. Multidimensional Arrays - Exercise\03. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.dll
+X:\SoftUni-Advanced-C-\6. Multidimensional Arrays - Exercise\03. Maximal Sum\bin\Debug\netcoreapp3.1\03. Maximal Sum.pdb
+X:\SoftUni-Advanced-C-\6. Multidimensional Arrays - Exercise\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-C-\6. Multidimensional Arrays - Exercise\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.AssemblyInfo.cs
+X:\SoftUni-Advanced-C-\6. Multidimensional Arrays - Exercise\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-C-\6. Multidimensional Arrays - Exercise\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.dll
+X:\SoftUni-Advanced-C-\6. Multidimensional Arrays - Exercise\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.pdb
+X:\SoftUni-Advanced-C-\6. Multidimensional Arrays - Exercise\03. Maximal Sum\obj\Debug\netcoreapp3.1\03. Maximal Sum.genruntimeconfig.cache

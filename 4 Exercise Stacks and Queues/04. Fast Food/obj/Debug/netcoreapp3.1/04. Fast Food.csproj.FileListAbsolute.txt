@@ -1,0 +1,12 @@
+X:\SoftUni-Advanced-C-\4 Exercise Stacks and Queues\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.exe
+X:\SoftUni-Advanced-C-\4 Exercise Stacks and Queues\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.deps.json
+X:\SoftUni-Advanced-C-\4 Exercise Stacks and Queues\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.runtimeconfig.json
+X:\SoftUni-Advanced-C-\4 Exercise Stacks and Queues\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.runtimeconfig.dev.json
+X:\SoftUni-Advanced-C-\4 Exercise Stacks and Queues\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.dll
+X:\SoftUni-Advanced-C-\4 Exercise Stacks and Queues\04. Fast Food\bin\Debug\netcoreapp3.1\04. Fast Food.pdb
+X:\SoftUni-Advanced-C-\4 Exercise Stacks and Queues\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-C-\4 Exercise Stacks and Queues\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.AssemblyInfo.cs
+X:\SoftUni-Advanced-C-\4 Exercise Stacks and Queues\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-C-\4 Exercise Stacks and Queues\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.dll
+X:\SoftUni-Advanced-C-\4 Exercise Stacks and Queues\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.pdb
+X:\SoftUni-Advanced-C-\4 Exercise Stacks and Queues\04. Fast Food\obj\Debug\netcoreapp3.1\04. Fast Food.genruntimeconfig.cache

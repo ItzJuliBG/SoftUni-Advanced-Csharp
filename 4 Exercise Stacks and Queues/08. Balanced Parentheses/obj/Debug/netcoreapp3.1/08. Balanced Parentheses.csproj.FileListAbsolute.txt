@@ -1,0 +1,12 @@
+X:\SoftUni-Advanced-C-\4 Exercise Stacks and Queues\08. Balanced Parentheses\bin\Debug\netcoreapp3.1\08. Balanced Parentheses.exe
+X:\SoftUni-Advanced-C-\4 Exercise Stacks and Queues\08. Balanced Parentheses\bin\Debug\netcoreapp3.1\08. Balanced Parentheses.deps.json
+X:\SoftUni-Advanced-C-\4 Exercise Stacks and Queues\08. Balanced Parentheses\bin\Debug\netcoreapp3.1\08. Balanced Parentheses.runtimeconfig.json
+X:\SoftUni-Advanced-C-\4 Exercise Stacks and Queues\08. Balanced Parentheses\bin\Debug\netcoreapp3.1\08. Balanced Parentheses.runtimeconfig.dev.json
+X:\SoftUni-Advanced-C-\4 Exercise Stacks and Queues\08. Balanced Parentheses\bin\Debug\netcoreapp3.1\08. Balanced Parentheses.dll
+X:\SoftUni-Advanced-C-\4 Exercise Stacks and Queues\08. Balanced Parentheses\bin\Debug\netcoreapp3.1\08. Balanced Parentheses.pdb
+X:\SoftUni-Advanced-C-\4 Exercise Stacks and Queues\08. Balanced Parentheses\obj\Debug\netcoreapp3.1\08. Balanced Parentheses.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-C-\4 Exercise Stacks and Queues\08. Balanced Parentheses\obj\Debug\netcoreapp3.1\08. Balanced Parentheses.AssemblyInfo.cs
+X:\SoftUni-Advanced-C-\4 Exercise Stacks and Queues\08. Balanced Parentheses\obj\Debug\netcoreapp3.1\08. Balanced Parentheses.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-C-\4 Exercise Stacks and Queues\08. Balanced Parentheses\obj\Debug\netcoreapp3.1\08. Balanced Parentheses.dll
+X:\SoftUni-Advanced-C-\4 Exercise Stacks and Queues\08. Balanced Parentheses\obj\Debug\netcoreapp3.1\08. Balanced Parentheses.pdb
+X:\SoftUni-Advanced-C-\4 Exercise Stacks and Queues\08. Balanced Parentheses\obj\Debug\netcoreapp3.1\08. Balanced Parentheses.genruntimeconfig.cache

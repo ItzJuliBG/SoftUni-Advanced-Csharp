@@ -1,0 +1,12 @@
+X:\SoftUni-Advanced-C-\5. Multidimensional Arrays\04. Symbol in Matrix\bin\Debug\netcoreapp3.1\04. Symbol in Matrix.exe
+X:\SoftUni-Advanced-C-\5. Multidimensional Arrays\04. Symbol in Matrix\bin\Debug\netcoreapp3.1\04. Symbol in Matrix.deps.json
+X:\SoftUni-Advanced-C-\5. Multidimensional Arrays\04. Symbol in Matrix\bin\Debug\netcoreapp3.1\04. Symbol in Matrix.runtimeconfig.json
+X:\SoftUni-Advanced-C-\5. Multidimensional Arrays\04. Symbol in Matrix\bin\Debug\netcoreapp3.1\04. Symbol in Matrix.runtimeconfig.dev.json
+X:\SoftUni-Advanced-C-\5. Multidimensional Arrays\04. Symbol in Matrix\bin\Debug\netcoreapp3.1\04. Symbol in Matrix.dll
+X:\SoftUni-Advanced-C-\5. Multidimensional Arrays\04. Symbol in Matrix\bin\Debug\netcoreapp3.1\04. Symbol in Matrix.pdb
+X:\SoftUni-Advanced-C-\5. Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\netcoreapp3.1\04. Symbol in Matrix.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-C-\5. Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\netcoreapp3.1\04. Symbol in Matrix.AssemblyInfo.cs
+X:\SoftUni-Advanced-C-\5. Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\netcoreapp3.1\04. Symbol in Matrix.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-C-\5. Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\netcoreapp3.1\04. Symbol in Matrix.dll
+X:\SoftUni-Advanced-C-\5. Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\netcoreapp3.1\04. Symbol in Matrix.pdb
+X:\SoftUni-Advanced-C-\5. Multidimensional Arrays\04. Symbol in Matrix\obj\Debug\netcoreapp3.1\04. Symbol in Matrix.genruntimeconfig.cache

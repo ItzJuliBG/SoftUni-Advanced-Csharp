@@ -1,0 +1,12 @@
+X:\SoftUni-Advanced-C-\5. Multidimensional Arrays\02. Sum Matrix Columns\bin\Debug\netcoreapp3.1\02. Sum Matrix Columns.exe
+X:\SoftUni-Advanced-C-\5. Multidimensional Arrays\02. Sum Matrix Columns\bin\Debug\netcoreapp3.1\02. Sum Matrix Columns.deps.json
+X:\SoftUni-Advanced-C-\5. Multidimensional Arrays\02. Sum Matrix Columns\bin\Debug\netcoreapp3.1\02. Sum Matrix Columns.runtimeconfig.json
+X:\SoftUni-Advanced-C-\5. Multidimensional Arrays\02. Sum Matrix Columns\bin\Debug\netcoreapp3.1\02. Sum Matrix Columns.runtimeconfig.dev.json
+X:\SoftUni-Advanced-C-\5. Multidimensional Arrays\02. Sum Matrix Columns\bin\Debug\netcoreapp3.1\02. Sum Matrix Columns.dll
+X:\SoftUni-Advanced-C-\5. Multidimensional Arrays\02. Sum Matrix Columns\bin\Debug\netcoreapp3.1\02. Sum Matrix Columns.pdb
+X:\SoftUni-Advanced-C-\5. Multidimensional Arrays\02. Sum Matrix Columns\obj\Debug\netcoreapp3.1\02. Sum Matrix Columns.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-C-\5. Multidimensional Arrays\02. Sum Matrix Columns\obj\Debug\netcoreapp3.1\02. Sum Matrix Columns.AssemblyInfo.cs
+X:\SoftUni-Advanced-C-\5. Multidimensional Arrays\02. Sum Matrix Columns\obj\Debug\netcoreapp3.1\02. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-C-\5. Multidimensional Arrays\02. Sum Matrix Columns\obj\Debug\netcoreapp3.1\02. Sum Matrix Columns.dll
+X:\SoftUni-Advanced-C-\5. Multidimensional Arrays\02. Sum Matrix Columns\obj\Debug\netcoreapp3.1\02. Sum Matrix Columns.pdb
+X:\SoftUni-Advanced-C-\5. Multidimensional Arrays\02. Sum Matrix Columns\obj\Debug\netcoreapp3.1\02. Sum Matrix Columns.genruntimeconfig.cache

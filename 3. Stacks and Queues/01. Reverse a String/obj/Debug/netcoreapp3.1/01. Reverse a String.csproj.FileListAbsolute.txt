@@ -1,0 +1,12 @@
+X:\SoftUni-Advanced-C-\3. Stacks and Queues\01. Reverse a String\bin\Debug\netcoreapp3.1\01. Reverse a String.exe
+X:\SoftUni-Advanced-C-\3. Stacks and Queues\01. Reverse a String\bin\Debug\netcoreapp3.1\01. Reverse a String.deps.json
+X:\SoftUni-Advanced-C-\3. Stacks and Queues\01. Reverse a String\bin\Debug\netcoreapp3.1\01. Reverse a String.runtimeconfig.json
+X:\SoftUni-Advanced-C-\3. Stacks and Queues\01. Reverse a String\bin\Debug\netcoreapp3.1\01. Reverse a String.runtimeconfig.dev.json
+X:\SoftUni-Advanced-C-\3. Stacks and Queues\01. Reverse a String\bin\Debug\netcoreapp3.1\01. Reverse a String.dll
+X:\SoftUni-Advanced-C-\3. Stacks and Queues\01. Reverse a String\bin\Debug\netcoreapp3.1\01. Reverse a String.pdb
+X:\SoftUni-Advanced-C-\3. Stacks and Queues\01. Reverse a String\obj\Debug\netcoreapp3.1\01. Reverse a String.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-C-\3. Stacks and Queues\01. Reverse a String\obj\Debug\netcoreapp3.1\01. Reverse a String.AssemblyInfo.cs
+X:\SoftUni-Advanced-C-\3. Stacks and Queues\01. Reverse a String\obj\Debug\netcoreapp3.1\01. Reverse a String.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-C-\3. Stacks and Queues\01. Reverse a String\obj\Debug\netcoreapp3.1\01. Reverse a String.dll
+X:\SoftUni-Advanced-C-\3. Stacks and Queues\01. Reverse a String\obj\Debug\netcoreapp3.1\01. Reverse a String.pdb
+X:\SoftUni-Advanced-C-\3. Stacks and Queues\01. Reverse a String\obj\Debug\netcoreapp3.1\01. Reverse a String.genruntimeconfig.cache
