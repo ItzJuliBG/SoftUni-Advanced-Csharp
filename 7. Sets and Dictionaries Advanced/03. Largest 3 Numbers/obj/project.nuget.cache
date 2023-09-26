@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "H3ovWXNGyyOzgKQ5KcChqbdcct+tnVeqguEH5xg1U85jnSm2WQNBD0F+jthVv7dAoGsdAZ0YnjnVH2Wqf8s6Qw==",
+  "success": true,
+  "projectFilePath": "X:\\SoftUni-Advanced-Csharp\\7. Sets and Dictionaries Advanced\\03. Largest 3 Numbers\\03. Largest 3 Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julia\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\julia\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\julia\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\julia\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

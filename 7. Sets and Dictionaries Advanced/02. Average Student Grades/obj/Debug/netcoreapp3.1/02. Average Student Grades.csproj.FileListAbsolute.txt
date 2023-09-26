@@ -1,0 +1,12 @@
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.exe
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.deps.json
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.runtimeconfig.json
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.runtimeconfig.dev.json
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.dll
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\02. Average Student Grades\bin\Debug\netcoreapp3.1\02. Average Student Grades.pdb
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.AssemblyInfo.cs
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.dll
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.pdb
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\02. Average Student Grades\obj\Debug\netcoreapp3.1\02. Average Student Grades.genruntimeconfig.cache

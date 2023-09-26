@@ -1,0 +1,12 @@
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\03. Largest 3 Numbers\bin\Debug\netcoreapp3.1\03. Largest 3 Numbers.exe
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\03. Largest 3 Numbers\bin\Debug\netcoreapp3.1\03. Largest 3 Numbers.deps.json
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\03. Largest 3 Numbers\bin\Debug\netcoreapp3.1\03. Largest 3 Numbers.runtimeconfig.json
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\03. Largest 3 Numbers\bin\Debug\netcoreapp3.1\03. Largest 3 Numbers.runtimeconfig.dev.json
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\03. Largest 3 Numbers\bin\Debug\netcoreapp3.1\03. Largest 3 Numbers.dll
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\03. Largest 3 Numbers\bin\Debug\netcoreapp3.1\03. Largest 3 Numbers.pdb
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\03. Largest 3 Numbers\obj\Debug\netcoreapp3.1\03. Largest 3 Numbers.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\03. Largest 3 Numbers\obj\Debug\netcoreapp3.1\03. Largest 3 Numbers.AssemblyInfo.cs
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\03. Largest 3 Numbers\obj\Debug\netcoreapp3.1\03. Largest 3 Numbers.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\03. Largest 3 Numbers\obj\Debug\netcoreapp3.1\03. Largest 3 Numbers.dll
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\03. Largest 3 Numbers\obj\Debug\netcoreapp3.1\03. Largest 3 Numbers.pdb
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\03. Largest 3 Numbers\obj\Debug\netcoreapp3.1\03. Largest 3 Numbers.genruntimeconfig.cache

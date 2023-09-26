@@ -1,0 +1,12 @@
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\04. Product Shop\bin\Debug\netcoreapp3.1\04. Product Shop.exe
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\04. Product Shop\bin\Debug\netcoreapp3.1\04. Product Shop.deps.json
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\04. Product Shop\bin\Debug\netcoreapp3.1\04. Product Shop.runtimeconfig.json
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\04. Product Shop\bin\Debug\netcoreapp3.1\04. Product Shop.runtimeconfig.dev.json
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\04. Product Shop\bin\Debug\netcoreapp3.1\04. Product Shop.dll
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\04. Product Shop\bin\Debug\netcoreapp3.1\04. Product Shop.pdb
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\04. Product Shop\obj\Debug\netcoreapp3.1\04. Product Shop.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\04. Product Shop\obj\Debug\netcoreapp3.1\04. Product Shop.AssemblyInfo.cs
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\04. Product Shop\obj\Debug\netcoreapp3.1\04. Product Shop.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\04. Product Shop\obj\Debug\netcoreapp3.1\04. Product Shop.dll
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\04. Product Shop\obj\Debug\netcoreapp3.1\04. Product Shop.pdb
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\04. Product Shop\obj\Debug\netcoreapp3.1\04. Product Shop.genruntimeconfig.cache
