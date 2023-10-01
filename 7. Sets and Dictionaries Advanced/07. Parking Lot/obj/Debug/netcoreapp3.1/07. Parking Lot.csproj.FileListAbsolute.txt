@@ -1,0 +1,12 @@
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\07. Parking Lot\bin\Debug\netcoreapp3.1\07. Parking Lot.exe
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\07. Parking Lot\bin\Debug\netcoreapp3.1\07. Parking Lot.deps.json
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\07. Parking Lot\bin\Debug\netcoreapp3.1\07. Parking Lot.runtimeconfig.json
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\07. Parking Lot\bin\Debug\netcoreapp3.1\07. Parking Lot.runtimeconfig.dev.json
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\07. Parking Lot\bin\Debug\netcoreapp3.1\07. Parking Lot.dll
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\07. Parking Lot\bin\Debug\netcoreapp3.1\07. Parking Lot.pdb
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\07. Parking Lot\obj\Debug\netcoreapp3.1\07. Parking Lot.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\07. Parking Lot\obj\Debug\netcoreapp3.1\07. Parking Lot.AssemblyInfo.cs
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\07. Parking Lot\obj\Debug\netcoreapp3.1\07. Parking Lot.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\07. Parking Lot\obj\Debug\netcoreapp3.1\07. Parking Lot.dll
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\07. Parking Lot\obj\Debug\netcoreapp3.1\07. Parking Lot.pdb
+X:\SoftUni-Advanced-Csharp\7. Sets and Dictionaries Advanced\07. Parking Lot\obj\Debug\netcoreapp3.1\07. Parking Lot.genruntimeconfig.cache

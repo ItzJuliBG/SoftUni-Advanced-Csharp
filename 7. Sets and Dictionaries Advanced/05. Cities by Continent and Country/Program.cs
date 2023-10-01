@@ -11,8 +11,6 @@ namespace _05._Cities_by_Continent_and_Country
             int n = int.Parse(Console.ReadLine());
             Dictionary<string, Dictionary<string, List<string>>> dict = new Dictionary<string, Dictionary<string, List<string>>>();
 
-
-
             for (int i = 0; i < n; i++)
             {
                 string[] input = Console.ReadLine().Split().ToArray();
@@ -25,7 +23,7 @@ namespace _05._Cities_by_Continent_and_Country
                 }
                 if (!dict[continent].ContainsKey(country))
                 {
-                    dict[continent].Add(country, new List<string>()); // how to add city to a existent country , dont touch the other part of the code
+                    dict[continent].Add(country, new List<string>());
                 }
                 dict[continent][country].Add(city);
             }

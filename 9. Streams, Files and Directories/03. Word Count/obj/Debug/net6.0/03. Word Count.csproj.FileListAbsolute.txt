@@ -1,0 +1,14 @@
+X:\SoftUni-Advanced-Csharp\9. Streams, Files and Directories\03. Word Count\bin\Debug\net6.0\03. Word Count.exe
+X:\SoftUni-Advanced-Csharp\9. Streams, Files and Directories\03. Word Count\bin\Debug\net6.0\03. Word Count.deps.json
+X:\SoftUni-Advanced-Csharp\9. Streams, Files and Directories\03. Word Count\bin\Debug\net6.0\03. Word Count.runtimeconfig.json
+X:\SoftUni-Advanced-Csharp\9. Streams, Files and Directories\03. Word Count\bin\Debug\net6.0\03. Word Count.dll
+X:\SoftUni-Advanced-Csharp\9. Streams, Files and Directories\03. Word Count\bin\Debug\net6.0\03. Word Count.pdb
+X:\SoftUni-Advanced-Csharp\9. Streams, Files and Directories\03. Word Count\obj\Debug\net6.0\03. Word Count.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-Advanced-Csharp\9. Streams, Files and Directories\03. Word Count\obj\Debug\net6.0\03. Word Count.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-Csharp\9. Streams, Files and Directories\03. Word Count\obj\Debug\net6.0\03. Word Count.AssemblyInfo.cs
+X:\SoftUni-Advanced-Csharp\9. Streams, Files and Directories\03. Word Count\obj\Debug\net6.0\03. Word Count.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-Csharp\9. Streams, Files and Directories\03. Word Count\obj\Debug\net6.0\03. Word Count.dll
+X:\SoftUni-Advanced-Csharp\9. Streams, Files and Directories\03. Word Count\obj\Debug\net6.0\refint\03. Word Count.dll
+X:\SoftUni-Advanced-Csharp\9. Streams, Files and Directories\03. Word Count\obj\Debug\net6.0\03. Word Count.pdb
+X:\SoftUni-Advanced-Csharp\9. Streams, Files and Directories\03. Word Count\obj\Debug\net6.0\03. Word Count.genruntimeconfig.cache
+X:\SoftUni-Advanced-Csharp\9. Streams, Files and Directories\03. Word Count\obj\Debug\net6.0\ref\03. Word Count.dll
