@@ -1,4 +1,8 @@
-﻿namespace WordCount
+﻿using System.Diagnostics.Tracing;
+using System.Text.RegularExpressions;
+using System.Xml;
+
+namespace WordCount
 {
     public class WordCount
     {
@@ -12,42 +16,39 @@
         public static void CalculateWordCounts(string wordsFilePath, string
        textFilePath, string outputFilePath)
         {
-            StreamReader words = new StreamReader(wordsFilePath);
-            StreamReader inputText = new StreamReader(textFilePath);
+            Dictionary<string, int> dict = new Dictionary<string, int>();
+            string text = string.Empty;
+            string pattern = @"[A-Za-z]+";
 
-            
-
-            Dictionary<string, int> dict = new();
-            string t = words.ReadToEnd().ToLower();
-            string[] wordFilter = t.Split().ToArray();
-            string temp = inputText.ReadToEnd().ToLower();
-           
-            List<string> text = temp.Split().ToList();
-            int count = 0;
-
-
-
-            foreach (var currentFilter in wordFilter)
+            using (StreamReader sr1 =  new StreamReader(textFilePath)) 
             {
-
-                foreach (var currentWord in text)
+                text = sr1.ReadToEnd();
+                text = text.ToLower();
+                
+                using(StreamReader sr2 =  new StreamReader(wordsFilePath))
                 {
-                   foreach(var word in currentWord)
+                    string[] filter = sr2.ReadToEnd().Split().ToArray();
+                    
+                    foreach(Match word in Regex.Matches(text, pattern)) 
                     {
-                        if (currentWord == '.' || currentWord == ',' || currentWord == '!' || currentWord == '@' || currentWord == ' & ' || currentWord == _')
+                        foreach (string element in filter)
                         {
+                            if (element == word.Value)
+                            {
+                                if (!dict.ContainsKey(word.Value))
+                                {
+                                    dict.Add(word.Value, 0);
+                                }
+                                dict[word.Value]++;
+                            }
                         }
-
-                        text.Remove(currentWord);
-                    }
-                    if (currentFilter==currentWord)
-                    {
-                    count++;
-
                     }
                 }
-                    //Console.WriteLine($"{currentFilter} - {count}");
-                    count = 0;
+                var sortedDict = dict.OrderByDescending(x => x.Value).ToDictionary(x => x.Key, x => x.Value);
+                foreach (var t in sortedDict)
+                {
+                    Console.WriteLine($"{t.Key} - {t.Value}");
+                }
             }
         }
     }

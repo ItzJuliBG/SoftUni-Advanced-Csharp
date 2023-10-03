@@ -1,0 +1,14 @@
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\EvenLines\bin\Debug\net6.0\EvenLines.exe
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\EvenLines\bin\Debug\net6.0\EvenLines.deps.json
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\EvenLines\bin\Debug\net6.0\EvenLines.runtimeconfig.json
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\EvenLines\bin\Debug\net6.0\EvenLines.dll
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\EvenLines\bin\Debug\net6.0\EvenLines.pdb
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\EvenLines\obj\Debug\net6.0\EvenLines.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\EvenLines\obj\Debug\net6.0\EvenLines.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\EvenLines\obj\Debug\net6.0\EvenLines.AssemblyInfo.cs
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\EvenLines\obj\Debug\net6.0\EvenLines.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\EvenLines\obj\Debug\net6.0\EvenLines.dll
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\EvenLines\obj\Debug\net6.0\refint\EvenLines.dll
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\EvenLines\obj\Debug\net6.0\EvenLines.pdb
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\EvenLines\obj\Debug\net6.0\EvenLines.genruntimeconfig.cache
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\EvenLines\obj\Debug\net6.0\ref\EvenLines.dll

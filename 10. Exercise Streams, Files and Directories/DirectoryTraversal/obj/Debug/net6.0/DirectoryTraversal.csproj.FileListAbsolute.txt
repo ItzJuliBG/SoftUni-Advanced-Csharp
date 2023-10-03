@@ -1,0 +1,14 @@
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\DirectoryTraversal\bin\Debug\net6.0\DirectoryTraversal.exe
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\DirectoryTraversal\bin\Debug\net6.0\DirectoryTraversal.deps.json
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\DirectoryTraversal\bin\Debug\net6.0\DirectoryTraversal.runtimeconfig.json
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\DirectoryTraversal\bin\Debug\net6.0\DirectoryTraversal.dll
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\DirectoryTraversal\bin\Debug\net6.0\DirectoryTraversal.pdb
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.AssemblyInfo.cs
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.dll
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\DirectoryTraversal\obj\Debug\net6.0\refint\DirectoryTraversal.dll
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.pdb
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\DirectoryTraversal\obj\Debug\net6.0\DirectoryTraversal.genruntimeconfig.cache
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\DirectoryTraversal\obj\Debug\net6.0\ref\DirectoryTraversal.dll

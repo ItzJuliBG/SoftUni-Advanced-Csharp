@@ -7,7 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Odd Lines", "01. Odd Li
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Line Numbers", "02. Line Numbers\02. Line Numbers.csproj", "{704FC0A3-72B8-473C-A241-9B82B30B13B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Word Count", "03. Word Count\03. Word Count.csproj", "{0918577C-1B58-41CE-A78D-764ED4D98F3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Word Count", "03. Word Count\03. Word Count.csproj", "{0918577C-1B58-41CE-A78D-764ED4D98F3A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Merge Files", "04. Merge Files\04. Merge Files.csproj", "{F44321AC-F9C6-4812-A9F2-043A98B956CD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "demo", "demo\demo.csproj", "{F9972C19-462F-46E4-AB1D-7CFDACFAF699}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Extract Special Bytes", "05. Extract Special Bytes\05. Extract Special Bytes.csproj", "{55F77CB4-2C3C-4D75-A7C1-095D5F8772FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +33,18 @@ Global
 		{0918577C-1B58-41CE-A78D-764ED4D98F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0918577C-1B58-41CE-A78D-764ED4D98F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0918577C-1B58-41CE-A78D-764ED4D98F3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F44321AC-F9C6-4812-A9F2-043A98B956CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F44321AC-F9C6-4812-A9F2-043A98B956CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F44321AC-F9C6-4812-A9F2-043A98B956CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F44321AC-F9C6-4812-A9F2-043A98B956CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9972C19-462F-46E4-AB1D-7CFDACFAF699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9972C19-462F-46E4-AB1D-7CFDACFAF699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9972C19-462F-46E4-AB1D-7CFDACFAF699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9972C19-462F-46E4-AB1D-7CFDACFAF699}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55F77CB4-2C3C-4D75-A7C1-095D5F8772FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55F77CB4-2C3C-4D75-A7C1-095D5F8772FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55F77CB4-2C3C-4D75-A7C1-095D5F8772FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55F77CB4-2C3C-4D75-A7C1-095D5F8772FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

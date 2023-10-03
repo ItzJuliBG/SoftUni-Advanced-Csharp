@@ -1,0 +1,14 @@
+X:\SoftUni-Advanced-Csharp\9. Streams, Files and Directories\05. Extract Special Bytes\bin\Debug\net6.0\05. Extract Special Bytes.exe
+X:\SoftUni-Advanced-Csharp\9. Streams, Files and Directories\05. Extract Special Bytes\bin\Debug\net6.0\05. Extract Special Bytes.deps.json
+X:\SoftUni-Advanced-Csharp\9. Streams, Files and Directories\05. Extract Special Bytes\bin\Debug\net6.0\05. Extract Special Bytes.runtimeconfig.json
+X:\SoftUni-Advanced-Csharp\9. Streams, Files and Directories\05. Extract Special Bytes\bin\Debug\net6.0\05. Extract Special Bytes.dll
+X:\SoftUni-Advanced-Csharp\9. Streams, Files and Directories\05. Extract Special Bytes\bin\Debug\net6.0\05. Extract Special Bytes.pdb
+X:\SoftUni-Advanced-Csharp\9. Streams, Files and Directories\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-Advanced-Csharp\9. Streams, Files and Directories\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-Csharp\9. Streams, Files and Directories\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.AssemblyInfo.cs
+X:\SoftUni-Advanced-Csharp\9. Streams, Files and Directories\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-Csharp\9. Streams, Files and Directories\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.dll
+X:\SoftUni-Advanced-Csharp\9. Streams, Files and Directories\05. Extract Special Bytes\obj\Debug\net6.0\refint\05. Extract Special Bytes.dll
+X:\SoftUni-Advanced-Csharp\9. Streams, Files and Directories\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.pdb
+X:\SoftUni-Advanced-Csharp\9. Streams, Files and Directories\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.genruntimeconfig.cache
+X:\SoftUni-Advanced-Csharp\9. Streams, Files and Directories\05. Extract Special Bytes\obj\Debug\net6.0\ref\05. Extract Special Bytes.dll

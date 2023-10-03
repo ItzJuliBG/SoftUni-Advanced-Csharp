@@ -1,0 +1,14 @@
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\LineNumbers\bin\Debug\net6.0\LineNumbers.exe
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\LineNumbers\bin\Debug\net6.0\LineNumbers.deps.json
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\LineNumbers\bin\Debug\net6.0\LineNumbers.runtimeconfig.json
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\LineNumbers\bin\Debug\net6.0\LineNumbers.dll
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\LineNumbers\bin\Debug\net6.0\LineNumbers.pdb
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\LineNumbers\obj\Debug\net6.0\LineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\LineNumbers\obj\Debug\net6.0\LineNumbers.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\LineNumbers\obj\Debug\net6.0\LineNumbers.AssemblyInfo.cs
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\LineNumbers\obj\Debug\net6.0\LineNumbers.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\LineNumbers\obj\Debug\net6.0\LineNumbers.dll
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\LineNumbers\obj\Debug\net6.0\refint\LineNumbers.dll
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\LineNumbers\obj\Debug\net6.0\LineNumbers.pdb
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\LineNumbers\obj\Debug\net6.0\LineNumbers.genruntimeconfig.cache
+X:\SoftUni-Advanced-Csharp\10. Exercise Streams, Files and Directories\LineNumbers\obj\Debug\net6.0\ref\LineNumbers.dll
