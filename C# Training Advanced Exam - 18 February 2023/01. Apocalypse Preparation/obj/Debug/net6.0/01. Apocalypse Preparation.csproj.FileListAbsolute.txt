@@ -1,0 +1,14 @@
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01. Apocalypse Preparation\bin\Debug\net6.0\01. Apocalypse Preparation.exe
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01. Apocalypse Preparation\bin\Debug\net6.0\01. Apocalypse Preparation.deps.json
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01. Apocalypse Preparation\bin\Debug\net6.0\01. Apocalypse Preparation.runtimeconfig.json
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01. Apocalypse Preparation\bin\Debug\net6.0\01. Apocalypse Preparation.dll
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01. Apocalypse Preparation\bin\Debug\net6.0\01. Apocalypse Preparation.pdb
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01. Apocalypse Preparation\obj\Debug\net6.0\01. Apocalypse Preparation.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01. Apocalypse Preparation\obj\Debug\net6.0\01. Apocalypse Preparation.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01. Apocalypse Preparation\obj\Debug\net6.0\01. Apocalypse Preparation.AssemblyInfo.cs
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01. Apocalypse Preparation\obj\Debug\net6.0\01. Apocalypse Preparation.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01. Apocalypse Preparation\obj\Debug\net6.0\01. Apocalypse Preparation.dll
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01. Apocalypse Preparation\obj\Debug\net6.0\refint\01. Apocalypse Preparation.dll
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01. Apocalypse Preparation\obj\Debug\net6.0\01. Apocalypse Preparation.pdb
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01. Apocalypse Preparation\obj\Debug\net6.0\01. Apocalypse Preparation.genruntimeconfig.cache
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01. Apocalypse Preparation\obj\Debug\net6.0\ref\01. Apocalypse Preparation.dll

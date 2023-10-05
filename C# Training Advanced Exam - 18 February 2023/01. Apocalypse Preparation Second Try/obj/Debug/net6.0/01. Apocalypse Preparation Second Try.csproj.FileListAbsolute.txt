@@ -1,0 +1,14 @@
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01. Apocalypse Preparation Second Try\bin\Debug\net6.0\01. Apocalypse Preparation Second Try.exe
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01. Apocalypse Preparation Second Try\bin\Debug\net6.0\01. Apocalypse Preparation Second Try.deps.json
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01. Apocalypse Preparation Second Try\bin\Debug\net6.0\01. Apocalypse Preparation Second Try.runtimeconfig.json
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01. Apocalypse Preparation Second Try\bin\Debug\net6.0\01. Apocalypse Preparation Second Try.dll
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01. Apocalypse Preparation Second Try\bin\Debug\net6.0\01. Apocalypse Preparation Second Try.pdb
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01. Apocalypse Preparation Second Try\obj\Debug\net6.0\01. Apocalypse Preparation Second Try.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01. Apocalypse Preparation Second Try\obj\Debug\net6.0\01. Apocalypse Preparation Second Try.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01. Apocalypse Preparation Second Try\obj\Debug\net6.0\01. Apocalypse Preparation Second Try.AssemblyInfo.cs
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01. Apocalypse Preparation Second Try\obj\Debug\net6.0\01. Apocalypse Preparation Second Try.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01. Apocalypse Preparation Second Try\obj\Debug\net6.0\01. Apocalypse Preparation Second Try.dll
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01. Apocalypse Preparation Second Try\obj\Debug\net6.0\refint\01. Apocalypse Preparation Second Try.dll
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01. Apocalypse Preparation Second Try\obj\Debug\net6.0\01. Apocalypse Preparation Second Try.pdb
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01. Apocalypse Preparation Second Try\obj\Debug\net6.0\01. Apocalypse Preparation Second Try.genruntimeconfig.cache
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01. Apocalypse Preparation Second Try\obj\Debug\net6.0\ref\01. Apocalypse Preparation Second Try.dll

@@ -1,0 +1,14 @@
+X:\SoftUni-Advanced-Csharp\11. Functional Programming\04. Add VAT\bin\Debug\net6.0\04. Add VAT.exe
+X:\SoftUni-Advanced-Csharp\11. Functional Programming\04. Add VAT\bin\Debug\net6.0\04. Add VAT.deps.json
+X:\SoftUni-Advanced-Csharp\11. Functional Programming\04. Add VAT\bin\Debug\net6.0\04. Add VAT.runtimeconfig.json
+X:\SoftUni-Advanced-Csharp\11. Functional Programming\04. Add VAT\bin\Debug\net6.0\04. Add VAT.dll
+X:\SoftUni-Advanced-Csharp\11. Functional Programming\04. Add VAT\bin\Debug\net6.0\04. Add VAT.pdb
+X:\SoftUni-Advanced-Csharp\11. Functional Programming\04. Add VAT\obj\Debug\net6.0\04. Add VAT.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-Advanced-Csharp\11. Functional Programming\04. Add VAT\obj\Debug\net6.0\04. Add VAT.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-Csharp\11. Functional Programming\04. Add VAT\obj\Debug\net6.0\04. Add VAT.AssemblyInfo.cs
+X:\SoftUni-Advanced-Csharp\11. Functional Programming\04. Add VAT\obj\Debug\net6.0\04. Add VAT.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-Csharp\11. Functional Programming\04. Add VAT\obj\Debug\net6.0\04. Add VAT.dll
+X:\SoftUni-Advanced-Csharp\11. Functional Programming\04. Add VAT\obj\Debug\net6.0\refint\04. Add VAT.dll
+X:\SoftUni-Advanced-Csharp\11. Functional Programming\04. Add VAT\obj\Debug\net6.0\04. Add VAT.pdb
+X:\SoftUni-Advanced-Csharp\11. Functional Programming\04. Add VAT\obj\Debug\net6.0\04. Add VAT.genruntimeconfig.cache
+X:\SoftUni-Advanced-Csharp\11. Functional Programming\04. Add VAT\obj\Debug\net6.0\ref\04. Add VAT.dll

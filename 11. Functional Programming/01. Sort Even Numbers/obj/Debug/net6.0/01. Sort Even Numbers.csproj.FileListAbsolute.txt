@@ -1,0 +1,14 @@
+X:\SoftUni-Advanced-Csharp\11. Functional Programming\01. Sort Even Numbers\obj\Debug\net6.0\01. Sort Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-Advanced-Csharp\11. Functional Programming\01. Sort Even Numbers\obj\Debug\net6.0\01. Sort Even Numbers.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-Csharp\11. Functional Programming\01. Sort Even Numbers\obj\Debug\net6.0\01. Sort Even Numbers.AssemblyInfo.cs
+X:\SoftUni-Advanced-Csharp\11. Functional Programming\01. Sort Even Numbers\obj\Debug\net6.0\01. Sort Even Numbers.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-Csharp\11. Functional Programming\01. Sort Even Numbers\bin\Debug\net6.0\01. Sort Even Numbers.exe
+X:\SoftUni-Advanced-Csharp\11. Functional Programming\01. Sort Even Numbers\bin\Debug\net6.0\01. Sort Even Numbers.deps.json
+X:\SoftUni-Advanced-Csharp\11. Functional Programming\01. Sort Even Numbers\bin\Debug\net6.0\01. Sort Even Numbers.runtimeconfig.json
+X:\SoftUni-Advanced-Csharp\11. Functional Programming\01. Sort Even Numbers\bin\Debug\net6.0\01. Sort Even Numbers.dll
+X:\SoftUni-Advanced-Csharp\11. Functional Programming\01. Sort Even Numbers\bin\Debug\net6.0\01. Sort Even Numbers.pdb
+X:\SoftUni-Advanced-Csharp\11. Functional Programming\01. Sort Even Numbers\obj\Debug\net6.0\01. Sort Even Numbers.dll
+X:\SoftUni-Advanced-Csharp\11. Functional Programming\01. Sort Even Numbers\obj\Debug\net6.0\refint\01. Sort Even Numbers.dll
+X:\SoftUni-Advanced-Csharp\11. Functional Programming\01. Sort Even Numbers\obj\Debug\net6.0\01. Sort Even Numbers.pdb
+X:\SoftUni-Advanced-Csharp\11. Functional Programming\01. Sort Even Numbers\obj\Debug\net6.0\01. Sort Even Numbers.genruntimeconfig.cache
+X:\SoftUni-Advanced-Csharp\11. Functional Programming\01. Sort Even Numbers\obj\Debug\net6.0\ref\01. Sort Even Numbers.dll
