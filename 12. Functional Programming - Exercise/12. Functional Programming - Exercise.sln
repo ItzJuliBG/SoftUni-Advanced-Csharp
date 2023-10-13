@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Action Print", "01. Action Print\01. Action Print.csproj", "{BCC21B4E-3CCD-4B91-963F-97B56AA215C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Knights of Honor", "02. Knights of Honor\02. Knights of Honor.csproj", "{57FC6950-59AB-441A-957A-10A0096288D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Custom Min Function", "03. Custom Min Function\03. Custom Min Function.csproj", "{6F9286A3-9E86-43FB-82D3-5E171F967528}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Find Evens or Odds", "04. Find Evens or Odds\04. Find Evens or Odds.csproj", "{3DC9F610-E295-4565-A9EF-D33422320231}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCC21B4E-3CCD-4B91-963F-97B56AA215C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC21B4E-3CCD-4B91-963F-97B56AA215C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC21B4E-3CCD-4B91-963F-97B56AA215C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC21B4E-3CCD-4B91-963F-97B56AA215C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57FC6950-59AB-441A-957A-10A0096288D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57FC6950-59AB-441A-957A-10A0096288D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57FC6950-59AB-441A-957A-10A0096288D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57FC6950-59AB-441A-957A-10A0096288D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F9286A3-9E86-43FB-82D3-5E171F967528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F9286A3-9E86-43FB-82D3-5E171F967528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F9286A3-9E86-43FB-82D3-5E171F967528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F9286A3-9E86-43FB-82D3-5E171F967528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DC9F610-E295-4565-A9EF-D33422320231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC9F610-E295-4565-A9EF-D33422320231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC9F610-E295-4565-A9EF-D33422320231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC9F610-E295-4565-A9EF-D33422320231}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58497668-09DB-46E1-8B84-B48FBAEBC356}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\05.SpecialCars\bin\Debug\net6.0\05.SpecialCars.exe
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\05.SpecialCars\bin\Debug\net6.0\05.SpecialCars.deps.json
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\05.SpecialCars\bin\Debug\net6.0\05.SpecialCars.runtimeconfig.json
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\05.SpecialCars\bin\Debug\net6.0\05.SpecialCars.dll
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\05.SpecialCars\bin\Debug\net6.0\05.SpecialCars.pdb
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\05.SpecialCars\obj\Debug\net6.0\05.SpecialCars.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\05.SpecialCars\obj\Debug\net6.0\05.SpecialCars.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\05.SpecialCars\obj\Debug\net6.0\05.SpecialCars.AssemblyInfo.cs
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\05.SpecialCars\obj\Debug\net6.0\05.SpecialCars.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\05.SpecialCars\obj\Debug\net6.0\05.SpecialCars.dll
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\05.SpecialCars\obj\Debug\net6.0\refint\05.SpecialCars.dll
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\05.SpecialCars\obj\Debug\net6.0\05.SpecialCars.pdb
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\05.SpecialCars\obj\Debug\net6.0\05.SpecialCars.genruntimeconfig.cache
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\05.SpecialCars\obj\Debug\net6.0\ref\05.SpecialCars.dll

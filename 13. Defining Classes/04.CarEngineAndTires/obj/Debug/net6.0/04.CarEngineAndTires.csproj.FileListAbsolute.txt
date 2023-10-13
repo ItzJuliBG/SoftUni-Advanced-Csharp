@@ -1,0 +1,14 @@
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\04.CarEngineAndTires\bin\Debug\net6.0\04.CarEngineAndTires.exe
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\04.CarEngineAndTires\bin\Debug\net6.0\04.CarEngineAndTires.deps.json
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\04.CarEngineAndTires\bin\Debug\net6.0\04.CarEngineAndTires.runtimeconfig.json
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\04.CarEngineAndTires\bin\Debug\net6.0\04.CarEngineAndTires.dll
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\04.CarEngineAndTires\bin\Debug\net6.0\04.CarEngineAndTires.pdb
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\04.CarEngineAndTires\obj\Debug\net6.0\04.CarEngineAndTires.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\04.CarEngineAndTires\obj\Debug\net6.0\04.CarEngineAndTires.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\04.CarEngineAndTires\obj\Debug\net6.0\04.CarEngineAndTires.AssemblyInfo.cs
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\04.CarEngineAndTires\obj\Debug\net6.0\04.CarEngineAndTires.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\04.CarEngineAndTires\obj\Debug\net6.0\04.CarEngineAndTires.dll
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\04.CarEngineAndTires\obj\Debug\net6.0\refint\04.CarEngineAndTires.dll
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\04.CarEngineAndTires\obj\Debug\net6.0\04.CarEngineAndTires.pdb
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\04.CarEngineAndTires\obj\Debug\net6.0\04.CarEngineAndTires.genruntimeconfig.cache
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\04.CarEngineAndTires\obj\Debug\net6.0\ref\04.CarEngineAndTires.dll

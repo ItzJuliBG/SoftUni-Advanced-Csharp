@@ -1,10 +1,13 @@
 ﻿List<decimal> nums = Console.ReadLine().Split(", ", StringSplitOptions.RemoveEmptyEntries).Select(decimal.Parse).ToList(); ;
-decimal vat = 1.2m;
-Func<decimal, decimal, decimal> vattAdder = (decimal x, decimal vat) => x = x*vat;
 
-
-foreach (decimal x in nums)
+Func<List<decimal>, List<decimal>> addVat =(nums) =>
 {
-    Console.WriteLine($"{vattAdder(x, vat):f2}"); 
-}
-
+    List<decimal> vattedNums = new List<decimal>();
+    decimal vat = 1.2m;
+    foreach (decimal num in nums)
+    {
+        vattedNums.Add(Math.Round(num * vat, 2));
+    }
+    return vattedNums;
+};
+Console.WriteLine(string.Join(Environment.NewLine, addVat(nums).ToList()));

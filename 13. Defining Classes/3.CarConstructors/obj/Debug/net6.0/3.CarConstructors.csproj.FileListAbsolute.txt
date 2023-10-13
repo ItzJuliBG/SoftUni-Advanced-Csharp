@@ -1,0 +1,14 @@
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\3.CarConstructors\bin\Debug\net6.0\3.CarConstructors.exe
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\3.CarConstructors\bin\Debug\net6.0\3.CarConstructors.deps.json
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\3.CarConstructors\bin\Debug\net6.0\3.CarConstructors.runtimeconfig.json
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\3.CarConstructors\bin\Debug\net6.0\3.CarConstructors.dll
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\3.CarConstructors\bin\Debug\net6.0\3.CarConstructors.pdb
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\3.CarConstructors\obj\Debug\net6.0\3.CarConstructors.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\3.CarConstructors\obj\Debug\net6.0\3.CarConstructors.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\3.CarConstructors\obj\Debug\net6.0\3.CarConstructors.AssemblyInfo.cs
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\3.CarConstructors\obj\Debug\net6.0\3.CarConstructors.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\3.CarConstructors\obj\Debug\net6.0\3.CarConstructors.dll
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\3.CarConstructors\obj\Debug\net6.0\refint\3.CarConstructors.dll
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\3.CarConstructors\obj\Debug\net6.0\3.CarConstructors.pdb
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\3.CarConstructors\obj\Debug\net6.0\3.CarConstructors.genruntimeconfig.cache
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\3.CarConstructors\obj\Debug\net6.0\ref\3.CarConstructors.dll

@@ -1,0 +1,14 @@
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\2.Car Extension\obj\Debug\net6.0\2.Car Extension.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\2.Car Extension\obj\Debug\net6.0\2.Car Extension.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\2.Car Extension\obj\Debug\net6.0\2.Car Extension.AssemblyInfo.cs
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\2.Car Extension\obj\Debug\net6.0\2.Car Extension.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\2.Car Extension\bin\Debug\net6.0\2.Car Extension.exe
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\2.Car Extension\bin\Debug\net6.0\2.Car Extension.deps.json
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\2.Car Extension\bin\Debug\net6.0\2.Car Extension.runtimeconfig.json
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\2.Car Extension\bin\Debug\net6.0\2.Car Extension.dll
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\2.Car Extension\bin\Debug\net6.0\2.Car Extension.pdb
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\2.Car Extension\obj\Debug\net6.0\2.Car Extension.dll
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\2.Car Extension\obj\Debug\net6.0\refint\2.Car Extension.dll
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\2.Car Extension\obj\Debug\net6.0\2.Car Extension.pdb
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\2.Car Extension\obj\Debug\net6.0\2.Car Extension.genruntimeconfig.cache
+X:\SoftUni-Advanced-Csharp\13. Defining Classes\2.Car Extension\obj\Debug\net6.0\ref\2.Car Extension.dll

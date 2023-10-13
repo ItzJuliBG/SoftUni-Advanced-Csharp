@@ -1,0 +1,14 @@
+X:\SoftUni-Advanced-Csharp\12. Functional Programming - Exercise\02. Knights of Honor\bin\Debug\net6.0\02. Knights of Honor.exe
+X:\SoftUni-Advanced-Csharp\12. Functional Programming - Exercise\02. Knights of Honor\bin\Debug\net6.0\02. Knights of Honor.deps.json
+X:\SoftUni-Advanced-Csharp\12. Functional Programming - Exercise\02. Knights of Honor\bin\Debug\net6.0\02. Knights of Honor.runtimeconfig.json
+X:\SoftUni-Advanced-Csharp\12. Functional Programming - Exercise\02. Knights of Honor\bin\Debug\net6.0\02. Knights of Honor.dll
+X:\SoftUni-Advanced-Csharp\12. Functional Programming - Exercise\02. Knights of Honor\bin\Debug\net6.0\02. Knights of Honor.pdb
+X:\SoftUni-Advanced-Csharp\12. Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net6.0\02. Knights of Honor.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-Advanced-Csharp\12. Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net6.0\02. Knights of Honor.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-Csharp\12. Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net6.0\02. Knights of Honor.AssemblyInfo.cs
+X:\SoftUni-Advanced-Csharp\12. Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net6.0\02. Knights of Honor.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-Csharp\12. Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net6.0\02. Knights of Honor.dll
+X:\SoftUni-Advanced-Csharp\12. Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net6.0\refint\02. Knights of Honor.dll
+X:\SoftUni-Advanced-Csharp\12. Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net6.0\02. Knights of Honor.pdb
+X:\SoftUni-Advanced-Csharp\12. Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net6.0\02. Knights of Honor.genruntimeconfig.cache
+X:\SoftUni-Advanced-Csharp\12. Functional Programming - Exercise\02. Knights of Honor\obj\Debug\net6.0\ref\02. Knights of Honor.dll

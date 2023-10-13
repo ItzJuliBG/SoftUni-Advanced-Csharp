@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CarManufacturer/1.0.0": {
+        "dependencies": {
+          "3.CarConstructors": "1.0.0"
+        },
+        "runtime": {
+          "CarManufacturer.dll": {}
+        }
+      },
+      "3.CarConstructors/1.0.0": {
+        "runtime": {
+          "3.CarConstructors.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarManufacturer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "3.CarConstructors/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
