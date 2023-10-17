@@ -1,0 +1,13 @@
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\FishingNet\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.exe
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\FishingNet\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.deps.json
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\FishingNet\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.runtimeconfig.json
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\FishingNet\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.runtimeconfig.dev.json
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\FishingNet\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.dll
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\FishingNet\FishingNet\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.pdb
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\FishingNet\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\FishingNet\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\FishingNet\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.AssemblyInfo.cs
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\FishingNet\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\FishingNet\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.dll
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\FishingNet\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.pdb
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\FishingNet\FishingNet\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.genruntimeconfig.cache

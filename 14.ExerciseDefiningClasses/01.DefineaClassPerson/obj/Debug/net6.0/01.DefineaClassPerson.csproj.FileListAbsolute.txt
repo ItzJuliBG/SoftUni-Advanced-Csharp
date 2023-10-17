@@ -1,0 +1,14 @@
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\01.DefineaClassPerson\bin\Debug\net6.0\01.DefineaClassPerson.exe
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\01.DefineaClassPerson\bin\Debug\net6.0\01.DefineaClassPerson.deps.json
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\01.DefineaClassPerson\bin\Debug\net6.0\01.DefineaClassPerson.runtimeconfig.json
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\01.DefineaClassPerson\bin\Debug\net6.0\01.DefineaClassPerson.dll
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\01.DefineaClassPerson\bin\Debug\net6.0\01.DefineaClassPerson.pdb
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\01.DefineaClassPerson\obj\Debug\net6.0\01.DefineaClassPerson.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\01.DefineaClassPerson\obj\Debug\net6.0\01.DefineaClassPerson.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\01.DefineaClassPerson\obj\Debug\net6.0\01.DefineaClassPerson.AssemblyInfo.cs
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\01.DefineaClassPerson\obj\Debug\net6.0\01.DefineaClassPerson.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\01.DefineaClassPerson\obj\Debug\net6.0\01.DefineaClassPerson.dll
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\01.DefineaClassPerson\obj\Debug\net6.0\refint\01.DefineaClassPerson.dll
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\01.DefineaClassPerson\obj\Debug\net6.0\01.DefineaClassPerson.pdb
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\01.DefineaClassPerson\obj\Debug\net6.0\01.DefineaClassPerson.genruntimeconfig.cache
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\01.DefineaClassPerson\obj\Debug\net6.0\ref\01.DefineaClassPerson.dll

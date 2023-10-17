@@ -1,0 +1,4 @@
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.TilesMaster\obj\Debug\netcoreapp3.1\01.TilesMaster.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.TilesMaster\obj\Debug\netcoreapp3.1\01.TilesMaster.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.TilesMaster\obj\Debug\netcoreapp3.1\01.TilesMaster.AssemblyInfo.cs
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.TilesMaster\obj\Debug\netcoreapp3.1\01.TilesMaster.csproj.CoreCompileInputs.cache

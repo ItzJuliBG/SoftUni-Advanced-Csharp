@@ -1,0 +1,14 @@
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\03.OldestFamilyMember\bin\Debug\net6.0\03.OldestFamilyMember.exe
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\03.OldestFamilyMember\bin\Debug\net6.0\03.OldestFamilyMember.deps.json
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\03.OldestFamilyMember\bin\Debug\net6.0\03.OldestFamilyMember.runtimeconfig.json
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\03.OldestFamilyMember\bin\Debug\net6.0\03.OldestFamilyMember.dll
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\03.OldestFamilyMember\bin\Debug\net6.0\03.OldestFamilyMember.pdb
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\03.OldestFamilyMember\obj\Debug\net6.0\03.OldestFamilyMember.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\03.OldestFamilyMember\obj\Debug\net6.0\03.OldestFamilyMember.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\03.OldestFamilyMember\obj\Debug\net6.0\03.OldestFamilyMember.AssemblyInfo.cs
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\03.OldestFamilyMember\obj\Debug\net6.0\03.OldestFamilyMember.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\03.OldestFamilyMember\obj\Debug\net6.0\03.OldestFamilyMember.dll
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\03.OldestFamilyMember\obj\Debug\net6.0\refint\03.OldestFamilyMember.dll
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\03.OldestFamilyMember\obj\Debug\net6.0\03.OldestFamilyMember.pdb
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\03.OldestFamilyMember\obj\Debug\net6.0\03.OldestFamilyMember.genruntimeconfig.cache
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\03.OldestFamilyMember\obj\Debug\net6.0\ref\03.OldestFamilyMember.dll

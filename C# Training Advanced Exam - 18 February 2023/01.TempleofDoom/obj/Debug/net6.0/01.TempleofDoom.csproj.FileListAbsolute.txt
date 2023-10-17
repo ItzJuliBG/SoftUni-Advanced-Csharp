@@ -1,0 +1,14 @@
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.TempleofDoom\bin\Debug\net6.0\01.TempleofDoom.exe
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.TempleofDoom\bin\Debug\net6.0\01.TempleofDoom.deps.json
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.TempleofDoom\bin\Debug\net6.0\01.TempleofDoom.runtimeconfig.json
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.TempleofDoom\bin\Debug\net6.0\01.TempleofDoom.dll
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.TempleofDoom\bin\Debug\net6.0\01.TempleofDoom.pdb
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.TempleofDoom\obj\Debug\net6.0\01.TempleofDoom.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.TempleofDoom\obj\Debug\net6.0\01.TempleofDoom.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.TempleofDoom\obj\Debug\net6.0\01.TempleofDoom.AssemblyInfo.cs
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.TempleofDoom\obj\Debug\net6.0\01.TempleofDoom.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.TempleofDoom\obj\Debug\net6.0\01.TempleofDoom.dll
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.TempleofDoom\obj\Debug\net6.0\refint\01.TempleofDoom.dll
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.TempleofDoom\obj\Debug\net6.0\01.TempleofDoom.pdb
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.TempleofDoom\obj\Debug\net6.0\01.TempleofDoom.genruntimeconfig.cache
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.TempleofDoom\obj\Debug\net6.0\ref\01.TempleofDoom.dll

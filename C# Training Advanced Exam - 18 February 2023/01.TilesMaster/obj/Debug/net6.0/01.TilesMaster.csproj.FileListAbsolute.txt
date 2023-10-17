@@ -1,0 +1,14 @@
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.TilesMaster\bin\Debug\net6.0\01.TilesMaster.exe
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.TilesMaster\bin\Debug\net6.0\01.TilesMaster.deps.json
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.TilesMaster\bin\Debug\net6.0\01.TilesMaster.runtimeconfig.json
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.TilesMaster\bin\Debug\net6.0\01.TilesMaster.dll
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.TilesMaster\bin\Debug\net6.0\01.TilesMaster.pdb
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.TilesMaster\obj\Debug\net6.0\01.TilesMaster.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.TilesMaster\obj\Debug\net6.0\01.TilesMaster.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.TilesMaster\obj\Debug\net6.0\01.TilesMaster.AssemblyInfo.cs
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.TilesMaster\obj\Debug\net6.0\01.TilesMaster.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.TilesMaster\obj\Debug\net6.0\01.TilesMaster.dll
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.TilesMaster\obj\Debug\net6.0\refint\01.TilesMaster.dll
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.TilesMaster\obj\Debug\net6.0\01.TilesMaster.pdb
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.TilesMaster\obj\Debug\net6.0\01.TilesMaster.genruntimeconfig.cache
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.TilesMaster\obj\Debug\net6.0\ref\01.TilesMaster.dll

@@ -1,0 +1,14 @@
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\BakeryShop1\bin\Debug\net6.0\BakeryShop1.exe
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\BakeryShop1\bin\Debug\net6.0\BakeryShop1.deps.json
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\BakeryShop1\bin\Debug\net6.0\BakeryShop1.runtimeconfig.json
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\BakeryShop1\bin\Debug\net6.0\BakeryShop1.dll
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\BakeryShop1\bin\Debug\net6.0\BakeryShop1.pdb
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\BakeryShop1\obj\Debug\net6.0\BakeryShop1.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\BakeryShop1\obj\Debug\net6.0\BakeryShop1.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\BakeryShop1\obj\Debug\net6.0\BakeryShop1.AssemblyInfo.cs
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\BakeryShop1\obj\Debug\net6.0\BakeryShop1.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\BakeryShop1\obj\Debug\net6.0\BakeryShop1.dll
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\BakeryShop1\obj\Debug\net6.0\refint\BakeryShop1.dll
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\BakeryShop1\obj\Debug\net6.0\BakeryShop1.pdb
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\BakeryShop1\obj\Debug\net6.0\BakeryShop1.genruntimeconfig.cache
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\BakeryShop1\obj\Debug\net6.0\ref\BakeryShop1.dll

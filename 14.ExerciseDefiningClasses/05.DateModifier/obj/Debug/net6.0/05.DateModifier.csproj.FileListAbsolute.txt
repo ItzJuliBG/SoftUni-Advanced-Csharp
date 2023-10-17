@@ -1,0 +1,14 @@
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\05.DateModifier\bin\Debug\net6.0\05.DateModifier.exe
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\05.DateModifier\bin\Debug\net6.0\05.DateModifier.deps.json
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\05.DateModifier\bin\Debug\net6.0\05.DateModifier.runtimeconfig.json
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\05.DateModifier\bin\Debug\net6.0\05.DateModifier.dll
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\05.DateModifier\bin\Debug\net6.0\05.DateModifier.pdb
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\05.DateModifier\obj\Debug\net6.0\05.DateModifier.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\05.DateModifier\obj\Debug\net6.0\05.DateModifier.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\05.DateModifier\obj\Debug\net6.0\05.DateModifier.AssemblyInfo.cs
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\05.DateModifier\obj\Debug\net6.0\05.DateModifier.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\05.DateModifier\obj\Debug\net6.0\05.DateModifier.dll
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\05.DateModifier\obj\Debug\net6.0\refint\05.DateModifier.dll
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\05.DateModifier\obj\Debug\net6.0\05.DateModifier.pdb
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\05.DateModifier\obj\Debug\net6.0\05.DateModifier.genruntimeconfig.cache
+X:\SoftUni-Advanced-Csharp\14.ExerciseDefiningClasses\05.DateModifier\obj\Debug\net6.0\ref\05.DateModifier.dll
