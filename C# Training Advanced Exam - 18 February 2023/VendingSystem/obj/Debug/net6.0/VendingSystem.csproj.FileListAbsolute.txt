@@ -1,0 +1,14 @@
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\VendingSystem\bin\Debug\net6.0\VendingSystem.exe
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\VendingSystem\bin\Debug\net6.0\VendingSystem.deps.json
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\VendingSystem\bin\Debug\net6.0\VendingSystem.runtimeconfig.json
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\VendingSystem\bin\Debug\net6.0\VendingSystem.dll
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\VendingSystem\bin\Debug\net6.0\VendingSystem.pdb
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\VendingSystem\obj\Debug\net6.0\VendingSystem.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\VendingSystem\obj\Debug\net6.0\VendingSystem.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\VendingSystem\obj\Debug\net6.0\VendingSystem.AssemblyInfo.cs
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\VendingSystem\obj\Debug\net6.0\VendingSystem.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\VendingSystem\obj\Debug\net6.0\VendingSystem.dll
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\VendingSystem\obj\Debug\net6.0\refint\VendingSystem.dll
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\VendingSystem\obj\Debug\net6.0\VendingSystem.pdb
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\VendingSystem\obj\Debug\net6.0\VendingSystem.genruntimeconfig.cache
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\VendingSystem\obj\Debug\net6.0\ref\VendingSystem.dll

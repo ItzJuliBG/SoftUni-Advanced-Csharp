@@ -1,0 +1,14 @@
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.MonsterExtermination\bin\Debug\net6.0\01.MonsterExtermination.exe
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.MonsterExtermination\bin\Debug\net6.0\01.MonsterExtermination.deps.json
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.MonsterExtermination\bin\Debug\net6.0\01.MonsterExtermination.runtimeconfig.json
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.MonsterExtermination\bin\Debug\net6.0\01.MonsterExtermination.dll
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.MonsterExtermination\bin\Debug\net6.0\01.MonsterExtermination.pdb
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.AssemblyInfo.cs
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.dll
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.MonsterExtermination\obj\Debug\net6.0\refint\01.MonsterExtermination.dll
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.pdb
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.MonsterExtermination\obj\Debug\net6.0\01.MonsterExtermination.genruntimeconfig.cache
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\01.MonsterExtermination\obj\Debug\net6.0\ref\01.MonsterExtermination.dll

@@ -1,0 +1,14 @@
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\02.BlindMan'sBuff\bin\Debug\net6.0\02.BlindMan'sBuff.exe
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\02.BlindMan'sBuff\bin\Debug\net6.0\02.BlindMan'sBuff.deps.json
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\02.BlindMan'sBuff\bin\Debug\net6.0\02.BlindMan'sBuff.runtimeconfig.json
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\02.BlindMan'sBuff\bin\Debug\net6.0\02.BlindMan'sBuff.dll
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\02.BlindMan'sBuff\bin\Debug\net6.0\02.BlindMan'sBuff.pdb
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\02.BlindMan'sBuff\obj\Debug\net6.0\02.BlindMan'sBuff.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\02.BlindMan'sBuff\obj\Debug\net6.0\02.BlindMan'sBuff.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\02.BlindMan'sBuff\obj\Debug\net6.0\02.BlindMan'sBuff.AssemblyInfo.cs
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\02.BlindMan'sBuff\obj\Debug\net6.0\02.BlindMan'sBuff.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\02.BlindMan'sBuff\obj\Debug\net6.0\02.BlindMan'sBuff.dll
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\02.BlindMan'sBuff\obj\Debug\net6.0\refint\02.BlindMan'sBuff.dll
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\02.BlindMan'sBuff\obj\Debug\net6.0\02.BlindMan'sBuff.pdb
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\02.BlindMan'sBuff\obj\Debug\net6.0\02.BlindMan'sBuff.genruntimeconfig.cache
+X:\SoftUni-Advanced-Csharp\C# Training Advanced Exam - 18 February 2023\02.BlindMan'sBuff\obj\Debug\net6.0\ref\02.BlindMan'sBuff.dll
