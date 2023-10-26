@@ -1,0 +1,14 @@
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\MailClient\bin\Debug\net6.0\MailClient.exe
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\MailClient\bin\Debug\net6.0\MailClient.deps.json
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\MailClient\bin\Debug\net6.0\MailClient.runtimeconfig.json
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\MailClient\bin\Debug\net6.0\MailClient.dll
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\MailClient\bin\Debug\net6.0\MailClient.pdb
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\MailClient\obj\Debug\net6.0\MailClient.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\MailClient\obj\Debug\net6.0\MailClient.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\MailClient\obj\Debug\net6.0\MailClient.AssemblyInfo.cs
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\MailClient\obj\Debug\net6.0\MailClient.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\MailClient\obj\Debug\net6.0\MailClient.dll
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\MailClient\obj\Debug\net6.0\refint\MailClient.dll
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\MailClient\obj\Debug\net6.0\MailClient.pdb
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\MailClient\obj\Debug\net6.0\MailClient.genruntimeconfig.cache
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\MailClient\obj\Debug\net6.0\ref\MailClient.dll

@@ -21,7 +21,7 @@ namespace SoftUniKindergarten
 
         public bool AddChild(Child child)
         {
-            if(Capacity >= Registry.Count+1)
+            if(Capacity > Registry.Count+1)
             {
                 Registry.Add(child);
                 return true;

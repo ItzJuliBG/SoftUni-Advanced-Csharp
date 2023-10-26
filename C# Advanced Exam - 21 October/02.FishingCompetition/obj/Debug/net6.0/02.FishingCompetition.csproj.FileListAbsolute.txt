@@ -1,0 +1,14 @@
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\02.FishingCompetition\bin\Debug\net6.0\02.FishingCompetition.exe
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\02.FishingCompetition\bin\Debug\net6.0\02.FishingCompetition.deps.json
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\02.FishingCompetition\bin\Debug\net6.0\02.FishingCompetition.runtimeconfig.json
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\02.FishingCompetition\bin\Debug\net6.0\02.FishingCompetition.dll
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\02.FishingCompetition\bin\Debug\net6.0\02.FishingCompetition.pdb
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\02.FishingCompetition\obj\Debug\net6.0\02.FishingCompetition.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\02.FishingCompetition\obj\Debug\net6.0\02.FishingCompetition.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\02.FishingCompetition\obj\Debug\net6.0\02.FishingCompetition.AssemblyInfo.cs
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\02.FishingCompetition\obj\Debug\net6.0\02.FishingCompetition.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\02.FishingCompetition\obj\Debug\net6.0\02.FishingCompetition.dll
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\02.FishingCompetition\obj\Debug\net6.0\refint\02.FishingCompetition.dll
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\02.FishingCompetition\obj\Debug\net6.0\02.FishingCompetition.pdb
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\02.FishingCompetition\obj\Debug\net6.0\02.FishingCompetition.genruntimeconfig.cache
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\02.FishingCompetition\obj\Debug\net6.0\ref\02.FishingCompetition.dll

@@ -1,0 +1,14 @@
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\demo\bin\Debug\net6.0\demo.exe
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\demo\bin\Debug\net6.0\demo.deps.json
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\demo\bin\Debug\net6.0\demo.runtimeconfig.json
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\demo\bin\Debug\net6.0\demo.dll
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\demo\bin\Debug\net6.0\demo.pdb
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\demo\obj\Debug\net6.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\demo\obj\Debug\net6.0\demo.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\demo\obj\Debug\net6.0\demo.AssemblyInfo.cs
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\demo\obj\Debug\net6.0\demo.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\demo\obj\Debug\net6.0\demo.dll
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\demo\obj\Debug\net6.0\refint\demo.dll
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\demo\obj\Debug\net6.0\demo.pdb
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\demo\obj\Debug\net6.0\demo.genruntimeconfig.cache
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\demo\obj\Debug\net6.0\ref\demo.dll

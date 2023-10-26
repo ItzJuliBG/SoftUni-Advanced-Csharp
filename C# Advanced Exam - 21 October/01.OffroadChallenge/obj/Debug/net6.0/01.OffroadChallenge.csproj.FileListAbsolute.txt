@@ -1,0 +1,14 @@
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\01.OffroadChallenge\bin\Debug\net6.0\01.OffroadChallenge.exe
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\01.OffroadChallenge\bin\Debug\net6.0\01.OffroadChallenge.deps.json
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\01.OffroadChallenge\bin\Debug\net6.0\01.OffroadChallenge.runtimeconfig.json
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\01.OffroadChallenge\bin\Debug\net6.0\01.OffroadChallenge.dll
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\01.OffroadChallenge\bin\Debug\net6.0\01.OffroadChallenge.pdb
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\01.OffroadChallenge\obj\Debug\net6.0\01.OffroadChallenge.GeneratedMSBuildEditorConfig.editorconfig
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\01.OffroadChallenge\obj\Debug\net6.0\01.OffroadChallenge.AssemblyInfoInputs.cache
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\01.OffroadChallenge\obj\Debug\net6.0\01.OffroadChallenge.AssemblyInfo.cs
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\01.OffroadChallenge\obj\Debug\net6.0\01.OffroadChallenge.csproj.CoreCompileInputs.cache
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\01.OffroadChallenge\obj\Debug\net6.0\01.OffroadChallenge.dll
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\01.OffroadChallenge\obj\Debug\net6.0\refint\01.OffroadChallenge.dll
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\01.OffroadChallenge\obj\Debug\net6.0\01.OffroadChallenge.pdb
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\01.OffroadChallenge\obj\Debug\net6.0\01.OffroadChallenge.genruntimeconfig.cache
+X:\SoftUni-Advanced-Csharp\C# Advanced Exam - 21 October\01.OffroadChallenge\obj\Debug\net6.0\ref\01.OffroadChallenge.dll
