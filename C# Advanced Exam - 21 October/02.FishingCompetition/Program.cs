@@ -165,7 +165,7 @@ while ((cmd = Console.ReadLine()) != "collect the nets")
                 isSink = true;
                 break;
             }
-
+            
             else
             {
                 string currentCatch = matrix[startingCol, startingRow - 1].ToString();
